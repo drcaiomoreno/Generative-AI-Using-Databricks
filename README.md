@@ -8,3 +8,6 @@ https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generat
 
 ### RAG Demo
 https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/lakehouse-ai-deploy-your-llm-chatbot
+
+### LLM Book
+Natural Language Processing with Transformers: Building Language Applications With Hugging Face
