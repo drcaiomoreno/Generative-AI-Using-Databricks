@@ -6,3 +6,5 @@ Slides for my presentation: <BR>
 https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generative-ai-DataHour-India-10Jan2024-CaioMoreno.pdf
 
 
+### RAG Demo
+https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/lakehouse-ai-deploy-your-llm-chatbot
