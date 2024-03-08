@@ -17,3 +17,5 @@ https://community.analyticsvidhya.com/c/datahour/generative-ai-llms-using-databr
 ### Data Hour Talk
 https://datahack.analyticsvidhya.com/contest/datahour-generative-ai-llms-using-databricks-data-intelligence-platform/
 
+### Addditional links
+https://github.com/databricks-academy/llm-foundation-models
