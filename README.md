@@ -3,8 +3,11 @@
 This repo aims to help the open source developer Generative AI / LLM Community to use Databricks to build Generative AI Solutions. 
 
 ### Gen AI / Databricks
-https://docs.databricks.com/en/generative-ai/generative-ai.html
-https://www.databricks.com/discover/generative-ai
+https://docs.databricks.com/en/generative-ai/generative-ai.html<BR>
+https://www.databricks.com/discover/generative-ai<BR>
+
+### DBRX
+https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms?itm_data=home-under-hero-promo
 
 ### Slides - Data Hour - 10 Jan 2024
 https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generative-ai-DataHour-India-10Jan2024-CaioMoreno.pdf
