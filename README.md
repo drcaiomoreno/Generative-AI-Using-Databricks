@@ -6,6 +6,10 @@ This repo aims to help the open source developer Generative AI / LLM Community t
 https://docs.databricks.com/en/generative-ai/generative-ai.html<BR>
 https://www.databricks.com/discover/generative-ai<BR>
 https://www.databricks.com/blog/databricks-announces-industrys-first-generative-ai-engineer-learning-pathway-and-certification<BR>
+https://www.databricks.com/blog/building-custom-genai-llms-and-beyond<BR>
+
+### Generative AI Architecture Patterns
+https://www.databricks.com/product/machine-learning/build-generative-ai
 
 ### DBRX
 https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms?itm_data=home-under-hero-promo
