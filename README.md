@@ -35,3 +35,13 @@ https://dreambooth.github.io/<BR>
 
 ### Databricks Industry Solutions
 https://github.com/databricks-industry-solutions
+
+### Generative AI Fundamentals
+https://www.databricks.com/resources/learn/training/generative-ai-fundamentals
+
+### Databricks Gen AI Learning Offerings:
+https://www.databricks.com/blog/now-available-new-generative-ai-learning-offerings
+
+### Caio's Gen AI YouTube Playlist
+https://www.youtube.com/watch?v=89CTQQzpe1U&list=PL7M0Nkn3oRYVudYfQiQz5cGpTCbxqkmn1
+
