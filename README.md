@@ -9,6 +9,11 @@ https://www.databricks.com/discover/generative-ai<BR>
 ### DBRX
 https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms?itm_data=home-under-hero-promo
 
+### MegaBlocks
+MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.<BR>
+https://arxiv.org/abs/2211.15841<BR>
+https://github.com/databricks/megablocks<BR>
+
 ### Slides - Data Hour - 10 Jan 2024
 https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generative-ai-DataHour-India-10Jan2024-CaioMoreno.pdf
 
