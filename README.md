@@ -29,7 +29,8 @@ https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generat
 https://www.youtube.com/watch?v=StBvyEdg_SE
 
 ### LLM Book
-Natural Language Processing with Transformers: Building Language Applications With Hugging Face
+Natural Language Processing with Transformers: Building Language Applications With Hugging Face<BR>
+https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246<BR>
 
 ### Data Hour Video
 https://community.analyticsvidhya.com/c/datahour/generative-ai-llms-using-databricks-data-intelligence-platform
@@ -49,6 +50,9 @@ https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/lakehou
 https://www.databricks.com/blog/creating-brand-aligned-images-using-generative-ai<BR>
 https://databricks-industry-solutions.github.io/personalized_image_gen/#personalized_image_gen.html<BR>
 https://dreambooth.github.io/<BR>
+
+3. Fine-Tuning Large Language Models with Hugging Face and DeepSpeed<BR>
+https://www.databricks.com/blog/fine-tuning-large-language-models-hugging-face-and-deepspeed<BR>
 
 ### Databricks Industry Solutions
 https://github.com/databricks-industry-solutions
