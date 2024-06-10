@@ -69,3 +69,5 @@ https://www.databricks.com/blog/now-available-new-generative-ai-learning-offerin
 ### Caio's Gen AI YouTube Playlist
 https://www.youtube.com/watch?v=89CTQQzpe1U&list=PL7M0Nkn3oRYVudYfQiQz5cGpTCbxqkmn1
 
+### Open LLM Leaderboard
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
