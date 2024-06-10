@@ -71,3 +71,12 @@ https://www.youtube.com/watch?v=89CTQQzpe1U&list=PL7M0Nkn3oRYVudYfQiQz5cGpTCbxqk
 
 ### Open LLM Leaderboard
 https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+
+### Microsoft Phi-2
+https://huggingface.co/microsoft/phi-2
+https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
+
+### REVOLUTIONIZING INSURANCE CUSTOMER SERVICE WITH ADVANCED AI CHATBOT (Santa Lucia Gen AI Use Case)
+https://www.databricks.com/dataaisummit/session/revolutionizing-insurance-customer-service-advanced-ai-chatbot
+
+
