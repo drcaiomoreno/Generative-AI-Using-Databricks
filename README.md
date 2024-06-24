@@ -80,6 +80,9 @@ https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-smal
 https://www.databricks.com/dataaisummit/session/revolutionizing-insurance-customer-service-advanced-ai-chatbot<BR>
 https://www.youtube.com/watch?v=4e_v_-f6-Bk<BR>
 
+### Santalucía Seguros: Enterprise-level RAG for Enhanced Customer Service and Agent Productivity
+https://www.databricks.com/blog/santalucia-seguros-enterprise-level-rag
+
 ### La Voz del CDO con Néstor Álvaro, Head Analítica Avanzada de Santa Lucia Seguros 
 https://www.youtube.com/watch?v=gxl-mUI3KVA<BR>
 https://www.youtube.com/watch?v=dT3MmI-Rhek<BR>
