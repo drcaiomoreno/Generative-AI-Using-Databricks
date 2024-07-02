@@ -14,6 +14,9 @@ https://www.databricks.com/blog/building-custom-genai-llms-and-beyond<BR>
 ### Generative AI Architecture Patterns
 https://www.databricks.com/product/machine-learning/build-generative-ai
 
+### ChunkViz
+https://github.com/gkamradt/ChunkViz
+
 ### DBRX
 https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms?itm_data=home-under-hero-promo
 
