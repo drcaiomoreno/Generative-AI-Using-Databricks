@@ -60,6 +60,10 @@ https://dreambooth.github.io/<BR>
 3. Fine-Tuning Large Language Models with Hugging Face and DeepSpeed<BR>
 https://www.databricks.com/blog/fine-tuning-large-language-models-hugging-face-and-deepspeed<BR>
 
+4.Automating Radiology Workflow with Large Language Models on Databricks<BR> 
+https://www.databricks.com/blog/automating-radiology-workflow-large-language-models-databricks<BR>
+
+
 ### Databricks Industry Solutions
 https://github.com/databricks-industry-solutions
 
