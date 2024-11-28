@@ -97,4 +97,6 @@ https://www.databricks.com/blog/santalucia-seguros-enterprise-level-rag
 https://www.youtube.com/watch?v=gxl-mUI3KVA<BR>
 https://www.youtube.com/watch?v=dT3MmI-Rhek<BR>
 
+### Six steps to improve your RAG application’s data foundation
+https://community.databricks.com/t5/technical-blog/six-steps-to-improve-your-rag-application-s-data-foundation/ba-p/97700
 
