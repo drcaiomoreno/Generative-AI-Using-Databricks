@@ -2,6 +2,8 @@
 
 This repo aims to help the open source developer Generative AI / LLM Community to use Databricks to build Generative AI Solutions. 
 
+https://www.databricks.com/discover/generative-ai
+
 ### Databricks Generative AI Cookbook
 https://ai-cookbook.io/index.html
 
