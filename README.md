@@ -25,11 +25,14 @@ MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.<BR>
 https://arxiv.org/abs/2211.15841<BR>
 https://github.com/databricks/megablocks<BR>
 
-### Slides - Data Hour - 10 Jan 2024
-https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generative-ai-DataHour-India-10Jan2024-CaioMoreno.pdf
+### Slides - Data Saturday Madrid 2024 - 30.11.2024
+https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Caio%20Moreno%20-%20%20DataSaturdayMadrid%202024%20-%20Final%20Presentation%20-%2030.11.2024%20-%20External%20Version.pdf
 
 ### Slides - Dev Scope / Databricks Event - 12 March 2024
 https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generative%20AI%20-%20DevScope%20-%20Oporto%20-%20Portugal%20%20-%2012%20March%202024%20-%20Caio%20Moreno%20-%20Final.pdf
+
+### Slides - Data Hour - 10 Jan 2024
+https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/blob/main/Generative-ai-DataHour-India-10Jan2024-CaioMoreno.pdf
 
 ### Presentation Video / YouTube 
 https://www.youtube.com/watch?v=StBvyEdg_SE
