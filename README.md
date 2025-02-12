@@ -103,3 +103,25 @@ https://www.youtube.com/watch?v=dT3MmI-Rhek<BR>
 ### Six steps to improve your RAG application’s data foundation
 https://community.databricks.com/t5/technical-blog/six-steps-to-improve-your-rag-application-s-data-foundation/ba-p/97700
 
+
+### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo/Workshop
+https://caiomsouza.medium.com/ai-bi-genie-databricks-sql-serverless-unity-catalog-demo-workshop-bbfeb39ae0be
+
+### Databricks Genie AI/BI integrate to Microsoft Teams (Conversational AI)
+https://caiomsouza.medium.com/databricks-genie-ai-bi-integrate-to-microsoft-teams-conversational-ai-799db59e7d76
+
+### DeepSeek R1 on Databricks
+https://caiomsouza.medium.com/deepseek-r1-on-databricks-32d8ab912bb4
+
+### Get Ready to be Databricks Certified: Generative AI Engineer Associate
+https://caiomsouza.medium.com/get-ready-to-be-databricks-certified-generative-ai-engineer-associate-229d6ca1174b
+
+### The Shift from Models to Compound AI Systems
+https://caiomsouza.medium.com/the-shift-from-models-to-compound-ai-systems-00fb23544ad7
+
+### The AI Race, The Stargate Project, DeepSeek Tsunami, Open Source Models and why should I care?
+https://caiomsouza.medium.com/the-ai-race-the-stargate-project-deepseek-tsunami-open-source-models-and-why-should-i-care-41533ec6966d
+
+### Introducing the Databricks AI Security Framework (DASF) to Manage AI Security Risks
+https://caiomsouza.medium.com/introducing-the-databricks-ai-security-framework-dasf-to-manage-ai-security-risks-c9aa32128870
+
