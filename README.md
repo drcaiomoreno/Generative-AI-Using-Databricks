@@ -127,3 +127,8 @@ https://caiomsouza.medium.com/the-ai-race-the-stargate-project-deepseek-tsunami-
 ### Introducing the Databricks AI Security Framework (DASF) to Manage AI Security Risks
 https://caiomsouza.medium.com/introducing-the-databricks-ai-security-framework-dasf-to-manage-ai-security-risks-c9aa32128870
 
+# E-books about Apache Spark and Kafka
+[Spark: The Definitive Guide: Big Data Processing Made Simple](https://amzn.to/4k6TNzr)<BR>
+[Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://amzn.to/4i2v91e)<BR>
+[Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://amzn.to/3QnwhAG)<BR>
+
