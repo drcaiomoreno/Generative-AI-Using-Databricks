@@ -4,6 +4,9 @@ This repo aims to help the open source developer Generative AI / LLM Community t
 
 https://www.databricks.com/discover/generative-ai
 
+### Databricks Intelligence Day - Barcelona - April 2025
+https://github.com/drcaiomoreno/Generative-AI-Using-Databricks/tree/main/did-bcn-april-2025/notebook-demo
+
 ### Databricks Generative AI Cookbook
 https://ai-cookbook.io/index.html
 
