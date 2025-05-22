@@ -109,6 +109,8 @@ https://www.youtube.com/watch?v=dT3MmI-Rhek<BR>
 ### Six steps to improve your RAG application’s data foundation
 https://community.databricks.com/t5/technical-blog/six-steps-to-improve-your-rag-application-s-data-foundation/ba-p/97700
 
+### How to integrate Mistral AI multimodal models from Huggingface with Databricks
+https://community.databricks.com/t5/technical-blog/how-to-integrate-mistral-ai-multimodal-models-from-huggingface/ba-p/119126
 
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo/Workshop
 https://caiomsouza.medium.com/ai-bi-genie-databricks-sql-serverless-unity-catalog-demo-workshop-bbfeb39ae0be
