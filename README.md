@@ -72,6 +72,8 @@ https://www.databricks.com/blog/fine-tuning-large-language-models-hugging-face-a
 4.Automating Radiology Workflow with Large Language Models on Databricks<BR> 
 https://www.databricks.com/blog/automating-radiology-workflow-large-language-models-databricks<BR> 
 
+### Databricks Architectures
+https://www.databricks.com/resources/architectures
 
 ### Databricks Industry Solutions
 https://github.com/databricks-industry-solutions
