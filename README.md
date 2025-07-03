@@ -142,3 +142,10 @@ https://caiomsouza.medium.com/introducing-the-databricks-ai-security-framework-d
 
 # Part 1: Implementing CI/CD on Databricks Using Databricks Notebooks and Azure DevOps
 https://www.databricks.com/blog/2021/09/20/part-1-implementing-ci-cd-on-databricks-using-databricks-notebooks-and-azure-devops.html
+https://github.com/mshtelma/databricks_ml_demo
+
+# Real-Time Mode Technical Deep Dive: How We Built Sub-300 Millisecond Streaming Into Apache Spark™
+https://www.databricks.com/dataaisummit/session/real-time-mode-technical-deep-dive-how-we-built-sub-300-millisecond
+
+# PDF Document Ingestion Accelerator for GenAI Applications
+https://www.databricks.com/dataaisummit/session/pdf-document-ingestion-accelerator-genai-applications
