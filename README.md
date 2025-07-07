@@ -135,17 +135,17 @@ https://caiomsouza.medium.com/the-ai-race-the-stargate-project-deepseek-tsunami-
 ### Introducing the Databricks AI Security Framework (DASF) to Manage AI Security Risks
 https://caiomsouza.medium.com/introducing-the-databricks-ai-security-framework-dasf-to-manage-ai-security-risks-c9aa32128870
 
-# E-books about Apache Spark and Kafka
+### E-books about Apache Spark and Kafka
 [Spark: The Definitive Guide: Big Data Processing Made Simple](https://amzn.to/4k6TNzr)<BR>
 [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://amzn.to/4i2v91e)<BR>
 [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://amzn.to/3QnwhAG)<BR>
 
-# Part 1: Implementing CI/CD on Databricks Using Databricks Notebooks and Azure DevOps
+### Part 1: Implementing CI/CD on Databricks Using Databricks Notebooks and Azure DevOps
 https://www.databricks.com/blog/2021/09/20/part-1-implementing-ci-cd-on-databricks-using-databricks-notebooks-and-azure-devops.html
 https://github.com/mshtelma/databricks_ml_demo
 
-# Real-Time Mode Technical Deep Dive: How We Built Sub-300 Millisecond Streaming Into Apache Spark™
+### Real-Time Mode Technical Deep Dive: How We Built Sub-300 Millisecond Streaming Into Apache Spark™
 https://www.databricks.com/dataaisummit/session/real-time-mode-technical-deep-dive-how-we-built-sub-300-millisecond
 
-# PDF Document Ingestion Accelerator for GenAI Applications
+### PDF Document Ingestion Accelerator for GenAI Applications
 https://www.databricks.com/dataaisummit/session/pdf-document-ingestion-accelerator-genai-applications
